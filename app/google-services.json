@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471643650348",
+    "project_id": "microsoftpes"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471643650348:android:b5bd1b71a0843044",
+        "android_client_info": {
+          "package_name": "com.example.tulika.oauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471643650348-ihl90kuf1p8gu94381i42pgtr5n2jdsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-yYEjHa3rrR4NmiUzBn6ZFjyzmshUug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
